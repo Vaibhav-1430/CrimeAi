@@ -1,0 +1,30 @@
+# Env
+.env
+.env.local
+.env.production
+
+# Next.js
+.next/
+out/
+
+# Dependencies
+node_modules/
+
+# Logs
+*.log
+
+# Cache
+.turbo/
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+
+__pycache__/
+*.pyc
+uploads/
+*.log
+.env
+venv/
